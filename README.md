@@ -6,7 +6,7 @@ This material is originally toy design to teach numeracy and math in Kindergarte
 But they also could be used to study information visualization construction (we used it for this purpose). 
 
 # What is it:
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=&set_id=72157646414326662&text=" frameBorder="0" width="500" height="500" scrolling="no"></iframe>
+![Gift 7 - Frobel Open Gift](http://inria.github.io/frobel-open-gifts/2014-06-14_gift7_fens/media/20140614_002523.jpg)
 
 # What we already release:
 

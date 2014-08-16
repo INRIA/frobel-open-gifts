@@ -49,6 +49,9 @@ First version was forged at:
 * With the participation of [AVIZ team](http://www.aviz.fr)
 * and [IRI](http://www.iri.centrepompidou.fr)
 
+## Use 
+* To make the box we used https://github.com/rahulbot/boxmaker
+
 ## Papers
 If you use this material for research purpose, please cite one of our papers: 
 
@@ -77,4 +80,3 @@ If you use this material for research purpose, please cite one of our papers:
 More infos could be find on: 
 * froebel wikipedia page : http://en.wikipedia.org/wiki/Friedrich_Fr%C3%B6bel
 * froebel Gift video explanation : https://www.youtube.com/watch?v=LNBzmCKLNdU
-* 

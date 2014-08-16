@@ -31,7 +31,7 @@ You can see how diverse are the 9 others gifts [gift google search](https://www.
 Frobel Open Gift was made for research purpose to study constructive visualization paradigm. 
 More information about constructive visualization could be found on the following research paper : 
 * [Constructive visualization paradygm](http://hal.inria.fr/hal-00978437)
-* Visualization construction study (coming soon)
+* [Constructing Visual Representations: Investigating the Use of Tangible Tokens](http://hal.inria.fr/hal-01024053) 
 
 
 # Credit 
@@ -41,7 +41,7 @@ This work have been made by:
 * Samuel Huron, 
 * Romain Di Vozzo, 
 * Mathieu Le Goc, 
-* ( Add your name here by sending your own gift. )
+* ( Add your name here by pull requesting your own model of toy. )
 
 ## Institution 
 First version was forged at: 
@@ -53,9 +53,10 @@ First version was forged at:
 * To make the box we used https://github.com/rahulbot/boxmaker
 
 ## Papers
-If you use this material for research purpose, please cite one of our papers: 
+If you use this material for academic research purpose, please cite one of our papers: 
 
-* constructive visualization - http://hal.inria.fr/hal-00978437
+* [constructive visualization](http://hal.inria.fr/hal-00978437)
+* [Constructing Visual Representations: Investigating the Use of Tangible Tokens](http://hal.inria.fr/hal-01024053) 
 
 > @inproceedings{Huron:2014:CV:2598510.2598566,
 >  author = {Huron, Samuel and Carpendale, Sheelagh and Thudt, Alice and Tang, Anthony and Mauerer, Michael},

@@ -46,7 +46,8 @@ This work have been made by:
 ## Institution 
 First version was forged at: 
 * [Fab Lab Digiscope](http://fablabdigiscope.wordpress.com)
-* With the participation of [AVIZ team](http://www.aviz.fr)
+* With the participation of [INRIA AVIZ team](http://www.aviz.fr)
+* and [Fabelier](fabelier.org) and the [CRI](http://cri-paris.org/)
 * and [IRI](http://www.iri.centrepompidou.fr)
 
 ## Use 

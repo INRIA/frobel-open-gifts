@@ -12,19 +12,19 @@ But they also could be used to study information visualization construction (we 
 
 Froebel original gift are composed of 10 "gifts" (pedagogical toys). 
 Over the ten original "gifts" we have just re designed the squared tiles from Gift 7 for a FabLab fabrication.
-Two version are accessibles: 
+Two versions are accessible: 
 * a 3d printable [tile](https://github.com/INRIA/frobel-open-gifts/blob/master/tangible-square-printable-model.stl)
 * a [frame](https://github.com/INRIA/frobel-open-gifts/blob/master/Gift-7/romain_trame_tokens.cdr) to laser cut tiles in plastic sheets
 * We also provide the [frame to make a container box](https://github.com/INRIA/frobel-open-gifts/blob/master/Gift-7/Backup_of_romain_boite_tokens_4-sam.cdr) for the tiles.
 
 # How to Contribute 
-We only make a part of Gift 7, That's mean 9 gift remain to be remodel for DIY fabrications. 
-You can see how diverse are the 9 others gifts [gift google search](https://www.google.com/search?q=gift+froebel&espv=2&source=lnms&tbm=isch&sa=X&ei=ibqlU53CC4fJ8wHBnYDACA&ved=0CAYQ_AUoAQ&biw=1311&bih=956). If you want to contribute please, choose one and do it : 
+We only make a part of Gift 7, that means 9 gifts remain to be remodeled for DIY fabrications. 
+You can see how diverse are the 9 other gifts [gift google search](https://www.google.com/search?q=gift+froebel&espv=2&source=lnms&tbm=isch&sa=X&ei=ibqlU53CC4fJ8wHBnYDACA&ved=0CAYQ_AUoAQ&biw=1311&bih=956). If you want to contribute please, choose one and do it: 
 
-* Fork this reporsitory 
+* Fork this repository 
 * Create your own folder gift folder "Gift-NN"
-* Add the frame for cutting or the model for printing, eventually a box design 
-* Photography and document your fabrication process 
+* Add the frame for cutting or the model for printing, and possibly a box design 
+* Photograph and document your fabrication process 
 * and finally make a pull request 
 
 # Our usage 
@@ -37,7 +37,7 @@ More information about constructive visualization could be found on the followin
 # Credit 
 
 ## People
-This work have been made by:
+This work has been made by:
 * Samuel Huron, 
 * Romain Di Vozzo, 
 * Mathieu Le Goc, 
@@ -79,6 +79,6 @@ If you use this material for academic research purpose, please cite one of our p
 
 
 # History:
-More infos could be find on: 
-* froebel wikipedia page : http://en.wikipedia.org/wiki/Friedrich_Fr%C3%B6bel
-* froebel Gift video explanation : https://www.youtube.com/watch?v=LNBzmCKLNdU
+More info can be found on: 
+* Fröbel wikipedia page : http://en.wikipedia.org/wiki/Friedrich_Fr%C3%B6bel
+* Fröbel Gift video explanation : https://www.youtube.com/watch?v=LNBzmCKLNdU

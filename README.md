@@ -79,6 +79,26 @@ If you use this material for academic research purpose, please cite one of our p
 >  keywords = {assembling, construction, constructionism, constructivism, design, education, visual literacy., visualization},
 > } 
 
+>@inproceedings{huron:hal-00978437,
+>  TITLE = {{Constructive Visualization}},
+>  AUTHOR = {Huron, Samuel and Carpendale, Sheelagh and Thudt, Alice and Tang, Anthony and Mauerer, Michael},
+>  URL = {https://hal.inria.fr/hal-00978437},
+>  NOTE = {Best Paper Honorable Mention},
+>  BOOKTITLE = {{ACM conference on Designing Interactive Systems in 2014}},
+>  ADDRESS = {Vancouver, Canada},
+>  ORGANIZATION = {{ACM}},
+>  PUBLISHER = {{ACM}},
+>  SERIES = {DIS '14 Proceedings of the 2014 conference on Designing interactive systems},
+>  PAGES = {Pages 433-442},
+>  YEAR = {2014},
+>  MONTH = Jun,
+>  DOI = {10.1145/2598510.2598566},
+>  KEYWORDS = {Visual literacy. ; Construction ; Assembling ; Constructivism ; Constructionism ; Education ; Visual literacy ; Visualization ; Design},
+>  PDF = {https://hal.inria.fr/hal-00978437/file/constructive-visualization-author-version.pdf},
+>  HAL_ID = {hal-00978437},
+>  HAL_VERSION = {v2},
+>}
+
 
 # History:
 More infos could be find on: 

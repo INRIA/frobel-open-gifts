@@ -56,7 +56,7 @@ First version was forged at:
 ## Use 
 * To make the box we used https://github.com/rahulbot/boxmaker
 
-## Papers
+## Scientific study and paradigm
 If you use this material for academic research purpose, please cite one of our papers: 
 
 * [constructive visualization](http://hal.inria.fr/hal-00978437)

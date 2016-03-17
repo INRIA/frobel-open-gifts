@@ -79,26 +79,24 @@ If you use this material for academic research purpose, please cite one of our p
 >  keywords = {assembling, construction, constructionism, constructivism, design, education, visual literacy., visualization},
 > } 
 
->@inproceedings{huron:hal-00978437,
->  TITLE = {{Constructive Visualization}},
->  AUTHOR = {Huron, Samuel and Carpendale, Sheelagh and Thudt, Alice and Tang, Anthony and Mauerer, Michael},
->  URL = {https://hal.inria.fr/hal-00978437},
->  NOTE = {Best Paper Honorable Mention},
->  BOOKTITLE = {{ACM conference on Designing Interactive Systems in 2014}},
->  ADDRESS = {Vancouver, Canada},
->  ORGANIZATION = {{ACM}},
->  PUBLISHER = {{ACM}},
->  SERIES = {DIS '14 Proceedings of the 2014 conference on Designing interactive systems},
->  PAGES = {Pages 433-442},
+>@article{huron:hal-01024053,
+>  TITLE = {{Constructing Visual Representations: Investigating the Use of Tangible Tokens}},
+>  AUTHOR = {Huron, Samuel and Jansen, Yvonne and Carpendale, Sheelagh},
+>  URL = {https://hal.inria.fr/hal-01024053},
+>  JOURNAL = {{IEEE Transactions on Visualization and Computer Graphics}},
+>  PUBLISHER = {{Institute of Electrical and Electronics Engineers}},
+>  SERIES = {Transactions on Visualization and Computer Graphics},
+>  VOLUME = {20},
+>  NUMBER = {12},
+>  PAGES = {1},
 >  YEAR = {2014},
->  MONTH = Jun,
->  DOI = {10.1145/2598510.2598566},
->  KEYWORDS = {Visual literacy. ; Construction ; Assembling ; Constructivism ; Constructionism ; Education ; Visual literacy ; Visualization ; Design},
->  PDF = {https://hal.inria.fr/hal-00978437/file/constructive-visualization-author-version.pdf},
->  HAL_ID = {hal-00978437},
->  HAL_VERSION = {v2},
+>  MONTH = Aug,
+>  DOI = {10.1109/TVCG.2014.2346292},
+>  KEYWORDS = {Constructive visualization ; Physical visualization ; Dynamic visualization ; Empirical study ; Token ; Visualization author- ing ; Information visualization ; Visual mapping ; Novices ; Visualization construction ; Visual analytics},
+>  PDF = {https://hal.inria.fr/hal-01024053/file/00_Camera_ready_IEEE.pdf},
+>  HAL_ID = {hal-01024053},
+>  HAL_VERSION = {v1},
 >}
-
 
 # History:
 More infos could be find on: 

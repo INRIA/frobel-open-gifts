@@ -36,11 +36,13 @@ More information about constructive visualization could be found on the followin
 
 # Credit 
 
-## People
+## Contributors
 This work have been made by:
 * Samuel Huron, 
 * Romain Di Vozzo, 
 * Mathieu Le Goc, 
+* Jean Daniel Fekete
+* Sylvia Frederikson
 * ( Add your name here by pull requesting your own model of toy. )
 
 ## Institution 

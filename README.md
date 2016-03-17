@@ -3,7 +3,8 @@ Frobel-open-gifts
 
 Frobel Open Gift is an open source version of the Friedrich Fröbel pedagogical material.
 This material is originally toy design to teach numeracy and math in Kindergarten.
-But they also could be used to study information visualization construction (we used it for this purpose). 
+But they also could be used to study or teach information visualization (we used it for this purpose). 
+This material is part of VIZKIT a toolkit to teach visual representation during hands on workshops. 
 
 # What is it:
 ![Gift 7 - Frobel Open Gift](http://inria.github.io/frobel-open-gifts/2014-06-14_gift7_fens/media/20140614_002523.jpg)
